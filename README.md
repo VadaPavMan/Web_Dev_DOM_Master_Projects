@@ -3,4 +3,5 @@
 
 # Project 1: Basic Profile Card With Add Friend Button.
 **Prview:**
-!(cat)[Profile_Card/assest/Output.png]
+
+![cat](Profile_Card/assest/Output.png)
