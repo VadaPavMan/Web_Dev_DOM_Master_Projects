@@ -32,3 +32,4 @@ function submit() {
     Storename.value = "";
   }
 }
+
